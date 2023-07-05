@@ -18,5 +18,5 @@
 ### Connect with Me :
 
 <a href="https://linkedin.com/in/youssefabdelmaksod" target="_blank"><img src="https://img.shields.io/badge/-Youssefabdelmaksod-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="https://t.me/Youssefabdelmaksod" target="_blank"><img src="https://img.shields.io/badgeYoussefabdelmaksod-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
+
 
